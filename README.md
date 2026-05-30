@@ -1,56 +1,32 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a192f,100:112240&height=280&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Santhosh%20Kumar%20U&fontSize=45&fontColor=ccd6f6&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20HITL%20AI%20Validation%20%E2%80%A2%20Python%20Automation%20%E2%80%A2%20FinOps&descAlignY=60&descSize=17&descColor=8892b0" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0f1e,60:0d1b3e,100:1a237e&height=250&section=header&text=Santhosh%20Kumar%20U&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20FinOps%20%7C%20HITL%20AI%20Validation%20%7C%20Python%20%26%20Excel%20Automation&descAlignY=65&descSize=16&descColor=90caf9" width="100%"/>
+<p align="center">
+  <a href="https://linkedin.com/in/santhosh-kumar-u-22a3971b4"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=0a192f"/></a>&nbsp;
+  <a href="mailto:santhoshkrishna958@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda&labelColor=0a192f"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Chennai%2C%20India-0a192f?style=for-the-badge&logo=google-maps&logoColor=64ffda&labelColor=0a192f"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=santhoshkumar-u&style=for-the-badge&color=0a192f&label=VIEWS&abbreviated=true"/>
+</p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=800&lines=👋+Hello%2C+World!+I'm+Santhosh+Kumar+U;📊+Data+Analyst+%40+Yuverse+(YUBI+Group);🤖+HITL+AI+Validation+Specialist;💳+Bank+Statement+Analysis+%26+Risk+Ops;⚡+Python+%26+Excel+Automation+Engineer" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/santhosh-kumar-u-22a3971b4">
-  <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:santhoshkrishna958@gmail.com">
-  <img src="https://img.shields.io/badge/─%20Email%20─-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/─%20Chennai%2C%20India%20─-1a237e?style=for-the-badge&logo=google-maps&logoColor=90caf9"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=santhoshkumar-u&style=for-the-badge&color=0d1b3e&label=👁%20Views"/>
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Data+Analyst+%40+Yuverse+(YUBI+Group);Bank+Statement+Analysis+%7C+Risk+%26+Credit+Ops;HITL+AI+Validation+%7C+Data+Quality;Python+%26+Excel+Automation+Specialist;Former+IT+Administrator+%7C+pfSense+%7C+Networking"/>
+</p>
 
 ---
 
 <br/>
 
-## 🙋‍♂️ &nbsp; About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### 👨‍💻 &nbsp;About Me
 
-<br/>
-
-🏢 &nbsp; Currently working at **Yuverse (YUBI Group)** as a **Data Analyst**
-
-💳 &nbsp; Specialised in **Bank Statement Analysis** & **Credit Risk Ops**
-
-🤖 &nbsp; Performing **HITL AI Validation** for FinOps pipelines
-
-⚡ &nbsp; Building **Python & Excel Automation** to speed up data workflows
-
-🌐 &nbsp; Former **IT Administrator** — networks, firewalls & infrastructure
-
-📚 &nbsp; Pursuing **BBA** at Alagappa University alongside work
-
-🌱 &nbsp; Currently diving deeper into **Advanced Python, SQL & Cloud**
-
-💬 &nbsp; Ask me about **Data Analysis, FinOps, IT Networking or Automation**
-
-📍 &nbsp; Based in **Chennai, India** &nbsp; 🇮🇳
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Working at **Yuverse (YUBI Group)** — FinOps & Data Operations  
+&nbsp;&nbsp;&nbsp;💳 &nbsp;Expert in **Bank Statement Analysis** & anomaly detection  
+&nbsp;&nbsp;&nbsp;🤖 &nbsp;**HITL AI Validator** — reviewing AI outputs for data accuracy  
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Building **Python & Excel automation** for FinOps workflows  
+&nbsp;&nbsp;&nbsp;🌐 &nbsp;Former **IT Admin** — pfSense, VPN, DNS, LAN/WLAN  
+&nbsp;&nbsp;&nbsp;📚 &nbsp;Pursuing **BBA** at Alagappa University  
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Learning **Advanced Python · SQL · Cloud · Power BI**  
+&nbsp;&nbsp;&nbsp;📍 &nbsp;**Chennai, India** 🇮🇳
 
 <br clear="right"/>
 
@@ -58,193 +34,139 @@
 
 <br/>
 
-## 🛠️ &nbsp; Tech Stack
+### 🛠️ &nbsp;Technologies & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,linux,windows,git,github,vscode,notion&theme=dark&perline=8"/>
+</p>
 
-### 📊 Data & Analysis
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=64B5F6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=64B5F6)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=64B5F6)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=64B5F6)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-0d1117?style=for-the-badge&logo=google-sheets&logoColor=64B5F6)
-
-### 🤖 AI & FinOps
-![HITL Validation](https://img.shields.io/badge/HITL_AI_Validation-0d1117?style=for-the-badge&logo=openai&logoColor=64B5F6)
-![JIRA](https://img.shields.io/badge/JIRA-0d1117?style=for-the-badge&logo=jira&logoColor=64B5F6)
-![Data Quality](https://img.shields.io/badge/Data_Quality-0d1117?style=for-the-badge&logo=databricks&logoColor=64B5F6)
-![Automation](https://img.shields.io/badge/Process_Automation-0d1117?style=for-the-badge&logo=python&logoColor=64B5F6)
-
-### 🌐 IT & Networking
-![pfSense](https://img.shields.io/badge/pfSense-0d1117?style=for-the-badge&logo=pfsense&logoColor=64B5F6)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=64B5F6)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=64B5F6)
-![VPN](https://img.shields.io/badge/VPN%2FDNS%2FDHCP-0d1117?style=for-the-badge&logo=cisco&logoColor=64B5F6)
-![Spiceworks](https://img.shields.io/badge/Spiceworks-0d1117?style=for-the-badge&logo=helpdesk&logoColor=64B5F6)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/pfSense-CC0000?style=flat-square&logo=pfsense&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spiceworks-E05A00?style=flat-square&logo=helpdesk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
+</p>
 
 ---
 
 <br/>
 
-## 📈 &nbsp; GitHub Stats
+### 📊 &nbsp;GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_radius=10&count_private=true&include_all_commits=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&border_radius=10&langs_count=6"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-u&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=90caf9&text_color=c9d1d9&border_color=1a237e&border_radius=15"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-u&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&border_color=1a237e&langs_count=6&border_radius=15"/>
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=santhoshkumar-u&theme=tokyonight-duo&hide_border=true&background=0a192f&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&stroke=0a192f&border_radius=10"/>
+</p>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=santhoshkumar-u&theme=tokyonight-duo&hide_border=false&background=0D1117&ring=64B5F6&fire=90CAF9&currStreakLabel=64B5F6&sideLabels=90CAF9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1a237e&border_radius=15"/>
-
-</div>
-
----
-
-<br/>
-
-## 📊 &nbsp; Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumar-u&theme=tokyo-night&bg_color=0d1117&color=64b5f6&line=90caf9&point=ffffff&area=true&area_color=1a237e&hide_border=false&border_color=1a237e&radius=15" width="95%"/>
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumar-u&theme=tokyo-night&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=112240&hide_border=true"/>
+</p>
 
 ---
 
 <br/>
 
-## 🏆 &nbsp; GitHub Trophies
+### 🏆 &nbsp;Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshkumar-u&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=6"/>
-</div>
-
----
-
-<br/>
-
-## 💼 &nbsp; Work Experience
-
-<br/>
-
-### 🟢 &nbsp; Yuverse (YUBI Group) &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Jul 2025 – Present &nbsp;·&nbsp; Chennai
-
-> Yuverse is part of the YUBI Group — India's leading debt platform powering credit infrastructure at scale.
-
-- 📊 &nbsp; Analyzed **high-volume banking transaction data** for creditworthiness assessment and lending decisions
-- 🤖 &nbsp; Performed **HITL (Human-in-the-Loop) AI Validation** — reviewing, correcting and improving AI-generated FinOps outputs
-- 🔍 &nbsp; Detected **anomalies, cash-flow patterns and risk signals** to support underwriting and credit teams
-- ⚡ &nbsp; Built **Python & Excel automation scripts** to reduce manual effort and accelerate data reconciliation workflows
-- 📋 &nbsp; Prepared **structured summary reports** for internal stakeholders with actionable financial insights
-
-<br/>
-
-### ⚪ &nbsp; Srimukha Precision Technology Pvt. Ltd &nbsp;·&nbsp; IT Administrator (Asst. Manager) &nbsp;·&nbsp; Jul 2024 – Jun 2025 &nbsp;·&nbsp; Chennai
-
-- 🌐 &nbsp; Configured and managed **pfSense firewall, VPN, NAT, DHCP and DNS** for secure network operations
-- ⚡ &nbsp; Reduced **IT incident resolution time by 20%** through SOP-based troubleshooting frameworks
-- 🔧 &nbsp; Resolved **LAN/WLAN issues**, configured switches and optimized overall network performance
-- 🖥️ &nbsp; Provided end-user IT support for **Windows, basic Linux administration** and Outlook backup/restore
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santhoshkumar-u&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5"/>
+</p>
 
 ---
 
 <br/>
 
-## 🚀 &nbsp; Featured Projects
+### 💼 &nbsp;Experience
+
+**🟢 Data Analyst — Bank Statement Analysis & HITL AI Validation**  
+`Yuverse (YUBI Group)` &nbsp;·&nbsp; Chennai &nbsp;·&nbsp; **Jul 2025 – Present**
+
+- Analyzed high-volume banking transactions for creditworthiness & risk assessment
+- Performed HITL AI Validation — reviewing and correcting AI-generated FinOps outputs
+- Built Python & Excel automation to speed up data reconciliation workflows
+- Prepared summary reports for underwriting and credit teams
 
 <br/>
 
-<div align="center">
+**⚪ IT Administrator & IT Support — Assistant Manager**  
+`Srimukha Precision Technology Pvt. Ltd` &nbsp;·&nbsp; Chennai &nbsp;·&nbsp; **Jul 2024 – Jun 2025**
 
-| 🗂️ Project | 🛠️ Stack | 📌 Description | ✅ Outcome |
-|:---|:---|:---|:---|
-| 🏦 **Bank Statement Analyzer** | Python · Pandas · Excel · SQL | Automated ingestion, cleaning and anomaly detection on large transaction datasets | Reduced manual review time significantly |
-| 🤖 **HITL AI Validation Pipeline** | Python · Excel · JIRA | Human-in-the-loop framework for validating AI-generated financial data outputs | Improved AI accuracy and auditability |
-| 🌐 **Network Infrastructure Overhaul** | pfSense · VPN · DHCP · DNS · Linux | Complete network redesign with firewall hardening and monitoring | **20% faster** incident resolution |
-
-</div>
+- Managed pfSense firewall, VPN, NAT, DHCP and DNS configurations
+- Reduced incident resolution time by **20%** through SOP-based troubleshooting
+- Configured switches, resolved LAN/WLAN issues and optimized network performance
+- Handled Windows/Linux admin and Outlook backup & restore for end users
 
 ---
 
 <br/>
 
-## 🎯 &nbsp; Achievements & Recognition
+### 🚀 &nbsp;Projects
 
-<br/>
-
-<div align="center">
-
-| 🏅 | Title | Details |
-|:---:|:---|:---|
-| ⚡ | **Speed & Accuracy Award** | Recognized at Yuverse (YUBI Group) for exceptional precision in financial data analysis |
-| 🌐 | **Network Uptime Excellence** | Maintained near-zero downtime at Srimukha Precision enabling uninterrupted business operations |
-| 📉 | **20% Efficiency Gain** | Cut IT incident resolution time by 20% through SOP-driven process optimization |
-| 🤖 | **HITL AI Validator** | Trusted to validate and improve AI model outputs within live FinOps data pipelines |
-
-</div>
+| Project | Stack | Impact |
+|:--|:--|:--|
+| 🏦 **Bank Statement Analyzer** | Python · Pandas · Excel · SQL | Automated anomaly detection on large transaction datasets |
+| 🤖 **HITL AI Validation System** | Python · Excel · JIRA | Improved AI output accuracy across FinOps pipelines |
+| 🌐 **Network Overhaul** | pfSense · VPN · DHCP · DNS | 20% faster IT incident resolution |
 
 ---
 
 <br/>
 
-## 🎓 &nbsp; Education & Certifications
+### 🎯 &nbsp;Achievements
 
-<br/>
-
-<div align="center">
-
-| 📚 | Qualification | Institution | Year | Result |
-|:---:|:---|:---|:---:|:---:|
-| 🎓 | BBA | Alagappa University | In Progress | — |
-| 🏫 | Diploma in EEE | Vivekananda Polytechnic College (DOTE) | 2021 | **79%** |
-| ✅ | Manual Software Testing | Certification | Completed | — |
-| 📖 | Data Analysis | Certification | Ongoing | — |
-
-</div>
+| 🏅 | Achievement |
+|:--:|:--|
+| ⚡ | Recognized for **speed & accuracy** in financial data analysis at Yuverse |
+| 🌐 | Maintained **high network uptime** — zero disruption to business operations |
+| 📉 | Achieved **20% faster** incident resolution via SOP process redesign |
+| 🤖 | Trusted HITL AI Specialist in live FinOps data pipelines |
 
 ---
 
 <br/>
 
-## 🌱 &nbsp; Currently Learning
+### 🎓 &nbsp;Education
+
+| Degree | Institution | Year | Score |
+|:--|:--|:--|:--|
+| BBA | Alagappa University | In Progress | — |
+| Diploma in EEE | Vivekananda Polytechnic College (DOTE) | 2021 | 79% |
+| Manual Software Testing | Certification | Completed | ✅ |
+| Data Analysis | Certification | Ongoing | 📚 |
+
+---
 
 <br/>
+
+### 🌱 &nbsp;Currently Learning
 
 ```
-  📊  Advanced Data Analysis   ──▶   SQL Optimization · Pandas · Power BI · Storytelling
-  🤖  AI & Automation          ──▶   HITL Frameworks · Python Bots · Workflow Automation
-  ☁️   Cloud Fundamentals       ──▶   Google Cloud · BigQuery · Cloud Storage
-  📈  Business Intelligence    ──▶   Dashboard Design · KPI Reporting · Data Visualization
+📊  Data Analysis   →   Advanced SQL  ·  Pandas  ·  Power BI  ·  Data Storytelling
+🤖  Automation      →   Python Scripts  ·  HITL Frameworks  ·  Workflow Bots
+☁️   Cloud           →   Google Cloud  ·  BigQuery
+📈  BI & Reporting  →   Dashboard Design  ·  KPI Visualization
 ```
 
 ---
 
 <br/>
 
-## 🤝 &nbsp; Connect With Me
+<p align="center">
+  <b>💬 Let's connect and build something meaningful together!</b><br/><br/>
+  <a href="https://linkedin.com/in/santhosh-kumar-u-22a3971b4">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:santhoshkrishna958@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-kumar-u-22a3971b4)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkrishna958@gmail.com)
-
-<br/><br/>
-
-*✦ Open to Data Analyst · FinOps · AI Validation roles ✦*
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,50:0d1b3e,100:000000&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=90caf9&animation=twinkling&fontAlignY=65" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0a192f,100:020818&height=150&section=footer&animation=fadeIn" width="100%"/>
