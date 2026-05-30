@@ -18,33 +18,17 @@
 ### 👨‍💻 &nbsp;About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480"/>
 </p>
 
-<p align="center">
-🔭 &nbsp;Working at <b>Yuverse (YUBI Group)</b> — FinOps & Data Operations
-</p>
-<p align="center">
-💳 &nbsp;Expert in <b>Bank Statement Analysis</b> & anomaly detection
-</p>
-<p align="center">
-🤖 &nbsp;<b>HITL AI Validator</b> — reviewing AI outputs for data accuracy
-</p>
-<p align="center">
-⚡ &nbsp;Building <b>Python & Excel automation</b> for FinOps workflows
-</p>
-<p align="center">
-🌐 &nbsp;Former <b>IT Admin</b> — pfSense, VPN, DNS, LAN/WLAN
-</p>
-<p align="center">
-📚 &nbsp;Pursuing <b>BBA</b> at Alagappa University
-</p>
-<p align="center">
-🌱 &nbsp;Learning <b>Advanced Python · SQL · Cloud · Power BI</b>
-</p>
-<p align="center">
-📍 &nbsp;<b>Chennai, India</b> 🇮🇳
-</p>
+<p align="center">🔭 &nbsp;Working at <b>Yuverse (YUBI Group)</b> — FinOps & Data Operations</p>
+<p align="center">💳 &nbsp;Expert in <b>Bank Statement Analysis</b> & anomaly detection</p>
+<p align="center">🤖 &nbsp;<b>HITL AI Validator</b> — reviewing AI outputs for data accuracy</p>
+<p align="center">⚡ &nbsp;Building <b>Python & Excel automation</b> for FinOps workflows</p>
+<p align="center">🌐 &nbsp;Former <b>IT Admin</b> — pfSense, VPN, DNS, LAN/WLAN</p>
+<p align="center">📚 &nbsp;Pursuing <b>BBA</b> at Alagappa University</p>
+<p align="center">🌱 &nbsp;Learning <b>Advanced Python · SQL · Cloud · Power BI</b></p>
+<p align="center">📍 &nbsp;<b>Chennai, India</b> 🇮🇳</p>
 
 ---
 
@@ -53,16 +37,19 @@
 ### 🛠️ &nbsp;Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,linux,windows,git,github,vscode&theme=dark&perline=7"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/pfSense-CC0000?style=flat-square&logo=pfsense&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/pfSense-CC0000?style=for-the-badge&logo=pfsense&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
 ---
@@ -82,16 +69,6 @@
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh33333&theme=tokyo-night&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=112240&hide_border=true"/>
-</p>
-
----
-
-<br/>
-
-### 🏆 &nbsp;Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh33333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5"/>
 </p>
 
 ---
